@@ -13,6 +13,15 @@ a pull request to suggest improvements or add clarifications. Please use issues 
 - Processes
   - Developer Operations
   - Quality Assurance
+    - Timelines are critical with soft and hard deadlines. Make sure timelines are clear to all members involved including the QA team.
+      - Start with QA team establishment, 
+      - Kick off the projects aligned with the product release timeline and workload assignment,
+      - Pre-Launch (Implementation),
+      - Post-Launch (Assessment.
+    - Roles and responsible members are important to QA assignments
+    - Update documents
+    - Implement the quality assurance plan
+    - Examine the results and make appropriate adjustments - Keep the whole team in the loop!
   - Documentation
 - Roles
   - Leadership
